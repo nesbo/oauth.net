@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bones.OAuth.Net", "Bones.OAuth.Net\Bones.OAuth.Net.csproj", "{2ACED159-0CCB-4DC1-9F20-635750F34F47}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bones.OAuth.Net.Api", "Bones.OAuth.Net.Api\Bones.OAuth.Net.Api.csproj", "{58B2292B-424D-4769-80AD-2F1C8E73162C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bones.OAuth.IdentityServer", "Bones.OAuth.IdentityServer\Bones.OAuth.IdentityServer.csproj", "{39F47280-2FFC-43AD-92C6-BB1EEEBA032C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{2ACED159-0CCB-4DC1-9F20-635750F34F47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2ACED159-0CCB-4DC1-9F20-635750F34F47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2ACED159-0CCB-4DC1-9F20-635750F34F47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58B2292B-424D-4769-80AD-2F1C8E73162C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58B2292B-424D-4769-80AD-2F1C8E73162C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58B2292B-424D-4769-80AD-2F1C8E73162C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58B2292B-424D-4769-80AD-2F1C8E73162C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39F47280-2FFC-43AD-92C6-BB1EEEBA032C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39F47280-2FFC-43AD-92C6-BB1EEEBA032C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39F47280-2FFC-43AD-92C6-BB1EEEBA032C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39F47280-2FFC-43AD-92C6-BB1EEEBA032C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

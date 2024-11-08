@@ -1,0 +1,6 @@
+@Bones.OAuth.Net.SampleApiApp_HostAddress = http://localhost:5113
+
+GET {{Bones.OAuth.Net.SampleApiApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
